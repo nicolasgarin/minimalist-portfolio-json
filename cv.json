@@ -1,20 +1,21 @@
 {
-    "basics": {
-      "name": "Nicolás Garín",
-      "label": "Semi Senior Front End Developer. Especializado en manejo de CMS y React",
-      "image": "/minimalist-portfolio-json/imgperfil.webp",
-      "email": "nicolas.garin11@gmail.com",
-      "phone": "(598) 98-879-852",
-      "url": "",
-      "summary": "+2 años de experiencia trabajando como desarrollador de portales interactivos, accesibles y responsives. En mi tiempo libre desarrollo aplicaciones con React y otras tecnologías de tendencia.",
-      "location": {
-        "address": "",
-        "postalCode": "",
-        "city": "Ciudad de la Costa",
-        "countryCode": "UY",
-        "region": "Uruguay"
-      },
-      "profiles": [{
+  "basics": {
+    "name": "Nicolás Garín",
+    "label": "Semi Senior Front End Developer. Especializado en manejo de CMS y React",
+    "image": "/minimalist-portfolio-json/imgperfil.webp",
+    "email": "nicolas.garin11@gmail.com",
+    "phone": "(598) 98-879-852",
+    "url": "",
+    "summary": "+2 años de experiencia trabajando como desarrollador de portales interactivos, accesibles y responsives. En mi tiempo libre desarrollo aplicaciones con React y otras tecnologías de tendencia.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Ciudad de la Costa",
+      "countryCode": "UY",
+      "region": "Uruguay"
+    },
+    "profiles": [
+      {
         "network": "GitHub",
         "username": "nicolasgarin",
         "url": "https://github.com/nicolasgarin"
@@ -23,17 +24,18 @@
         "network": "LinkedIn",
         "username": "nicolas garin",
         "url": "https://www.linkedin.com/in/nicol%C3%A1s-gar%C3%ADn-a90b55202/"
-      }]
-    },
-    "work": [{
+      }
+    ]
+  },
+  "work": [
+    {
       "name": "Antel",
       "position": "Semi Senior Developer",
       "url": "https://www.antel.com.uy/institucional/",
       "startDate": "2022-06-10",
       "endDate": null,
       "summary": "Empleado tercerizado desde Isa, formo parte del equipo de desarrollo del portal corporativo donde gestiono la parte programática del sitio para uso del CMS por parte del equipo de contenidos.",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "name": "Isa Software",
@@ -42,51 +44,78 @@
       "startDate": "2022-02-14",
       "endDate": null,
       "summary": "Contratado como Junior, realicé diferentes tareas hasta poder ser entrevistado y contratado por un cliente externo.",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
-      "name": "Empleos en diferentes rubros",
+      "name": "Empleos rubros de atención al cliente",
       "position": "Encargado de sector cajas, subencargado en casa cambiaria",
-      "url": "https://www.interfaseisa.com/",
-      "startDate": "2022-02-14",
-      "endDate": null,
-      "summary": "Contratado como Junior, realicé diferentes tareas hasta poder ser entrevistado y contratado por un cliente externo.",
-      "highlights": [
-      ]
-    }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }],
-    "languages": [{
+      "url": "",
+      "startDate": "2009-01-01",
+      "endDate": "2022-02-14",
+      "summary": "Pasaje por diferentes empleos desde los 18 años permaneciendo 2 o 3 años en cada uno donde desarrollé un fuerte sentido de responsabilidad y trabajo en equipo, llegando a ascender en la mayoría de ellos. Trabajé como cadete, cajero de supermercado, encargado en atención al cliente, operador y encargado de casa de cambio, entre algunos otros.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Jóvenes a Programar",
+      "url": "",
+      "area": "Curso de desarrollo Web. Contenidos generales de programación y enfocados en el desarrollo Front End",
+      "studyType": "",
+      "startDate": "2020-01-11",
+      "endDate": "2021-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Colegio Español Miguel de Cervantes Saavedra",
+      "url": "",
+      "area": "Bachillerato de Ingeniería",
+      "studyType": "",
+      "startDate": "2003-01-01",
+      "endDate": "2008-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Css",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Javascript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
       "language": "English",
       "fluency": "Native speaker"
-    }],
-    "projects": [{
+    }
+  ],
+  "projects": [
+    {
       "name": "Project",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
@@ -106,5 +135,6 @@
       ],
       "url": "https://project.com/",
       "github": "#"
-    }]
-  }
+    }
+  ]
+}
