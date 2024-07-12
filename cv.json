@@ -1,50 +1,58 @@
 {
     "basics": {
       "name": "Nicolás Garín",
-      "label": "+2 años de experiencia como Front End Developer. Especializado en manejo de CMS y React",
+      "label": "Semi Senior Front End Developer. Especializado en manejo de CMS y React",
       "image": "/imgperfil.webp",
-      "email": "john@gmail.com",
-      "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "email": "nicolas.garin11@gmail.com",
+      "phone": "(598) 98-879-852",
+      "url": "",
+      "summary": "+2 años de experiencia trabajando como desarrollador de portales interactivos, accesibles y responsives. En mi tiempo libre desarrollo aplicaciones con React y otras tecnologías de tendencia.",
       "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
+        "address": "",
+        "postalCode": "",
         "city": "Ciudad de la Costa",
-        "countryCode": "US",
-        "region": "Canelones"
+        "countryCode": "UY",
+        "region": "Uruguay"
       },
       "profiles": [{
         "network": "GitHub",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "username": "nicolasgarin",
+        "url": "https://github.com/nicolasgarin"
       },
       {
         "network": "LinkedIn",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "username": "nicolas garin",
+        "url": "https://www.linkedin.com/in/nicol%C3%A1s-gar%C3%ADn-a90b55202/"
       }]
     },
     "work": [{
+      "name": "Antel",
+      "position": "Semi Senior Developer",
+      "url": "https://www.antel.com.uy/institucional/",
+      "startDate": "2022-06-10",
+      "endDate": null,
+      "summary": "Empleado tercerizado desde Isa, formo parte del equipo de desarrollo del portal corporativo donde gestiono la parte programática del sitio para uso del CMS por parte del equipo de contenidos.",
+      "highlights": [
+      ]
+    },
+    {
       "name": "Isa Software",
       "position": "Semi Senior Developer",
       "url": "https://www.interfaseisa.com/",
       "startDate": "2022-02-14",
       "endDate": null,
-      "summary": "Description…",
+      "summary": "Contratado como Junior, realicé diferentes tareas hasta poder ser entrevistado y contratado por un cliente externo.",
       "highlights": [
-        "Started the company"
       ]
-    }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
+    },
+    {
+      "name": "Empleos en diferentes rubros",
+      "position": "Encargado de sector cajas, subencargado en casa cambiaria",
+      "url": "https://www.interfaseisa.com/",
+      "startDate": "2022-02-14",
+      "endDate": null,
+      "summary": "Contratado como Junior, realicé diferentes tareas hasta poder ser entrevistado y contratado por un cliente externo.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
       ]
     }],
     "education": [{
@@ -59,24 +67,11 @@
         "DB1101 - Basic SQL"
       ]
     }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
     "certificates": [{
       "name": "Certificate",
       "date": "2021-11-07",
       "issuer": "Company",
       "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
     }],
     "skills": [{
       "name": "Web Development",
@@ -91,17 +86,6 @@
       "language": "English",
       "fluency": "Native speaker"
     }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
     "projects": [{
       "name": "Project",
       "startDate": "2019-01-01",
@@ -110,7 +94,7 @@
       "highlights": [
         "Won award at AIHacks 2016"
       ],
-      "url": "https://project.com/"
+      "url": ""
     },
     {
       "name": "Project",
