@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Nicolás Garín",
-      "label": "Más de 2 años de experiencia como Front End Developer. Especializado en manejo de CMS y React",
+      "label": "+2 años de experiencia como Front End Developer. Especializado en manejo de CMS y React",
       "image": "/imgperfil.webp",
       "email": "john@gmail.com",
       "phone": "(912) 555-4321",
@@ -111,5 +111,16 @@
         "Won award at AIHacks 2016"
       ],
       "url": "https://project.com/"
+    },
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/",
+      "github": "#"
     }]
   }
