@@ -1,8 +1,8 @@
 {
     "basics": {
       "name": "Nicolás Garín",
-      "label": "Frontend Developer",
-      "image": "",
+      "label": "Más de 2 años de experiencia como Front End Developer. Especializado en manejo de CMS y React",
+      "image": "/imgperfil.webp",
       "email": "john@gmail.com",
       "phone": "(912) 555-4321",
       "url": "https://johndoe.com",
@@ -15,17 +15,22 @@
         "region": "Canelones"
       },
       "profiles": [{
-        "network": "Twitter",
+        "network": "GitHub",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "LinkedIn",
         "username": "john",
         "url": "https://twitter.com/john"
       }]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "name": "Isa Software",
+      "position": "Semi Senior Developer",
+      "url": "https://www.interfaseisa.com/",
+      "startDate": "2022-02-14",
+      "endDate": null,
       "summary": "Description…",
       "highlights": [
         "Started the company"
