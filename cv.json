@@ -106,6 +106,71 @@
       "name": "React",
       "level": "",
       "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sass",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Typescript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Freemarker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tailwind",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Radix",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Liferay",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vitest",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DaisyUI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ShadCn",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Astro",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
@@ -133,7 +198,7 @@
       "endDate": "2021-01-01",
       "description": "Proyecto final de curso para Jóvenes a Programar, eCommerce completo con catálogo de productos, filtros de búsqueda y proceso de compra.",
       "highlights": [
-        "HTML", "CSS", "Javascript", "Bootstrap"
+        "HTML", "Css", "Javascript", "Bootstrap"
       ],
       "url": "https://nicolasgarin.github.io/Proyecto-JaP/",
       "github": "https://github.com/nicolasgarin/Proyecto-JaP"
@@ -147,6 +212,83 @@
         "React", "Sass", "Bootstrap"
       ],
       "github": "https://github.com/nicolasgarin/flashcard-app"
+    },
+    {
+      "name": "Clipboard",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Landing page de aplicación de gestión de textos.",
+      "highlights": [
+        "Astro", "Typescript", "Css", "Tailwind"
+      ],
+      "url": "https://nicolasgarin.github.io/clipboard/",
+      "github": "https://github.com/nicolasgarin/clipboard"
+    },
+    {
+      "name": "Loopstudios",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Landing page de empresa relacionada con realidad virtual.",
+      "highlights": [
+        "Astro", "Typescript", "Css", "Tailwind"
+      ],
+      "url": "https://nicolasgarin.github.io/loopstudios/",
+      "github": "https://github.com/nicolasgarin/loopstudios"
+    },
+    {
+      "name": "Project Tracker",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Aplicación de seguimiento y gestión de proyectos para logro de objetivos personales. Visualización gráfica de avance mensual, opciones de filtrado de proyectos, tema claro/oscuro y elección de lenguaje.",
+      "highlights": [
+        "React", "Typescript", "Sass", "Botstrap"
+      ],
+      "url": "https://nicolasgarin.github.io/project-tracker-ts-app/",
+      "github": "https://github.com/nicolasgarin/project-tracker-ts-app"
+    },
+    {
+      "name": "Project Tracker LP",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Aplicación de seguimiento y gestión de proyectos para logro de objetivos personales. Visualización gráfica de avance mensual, opciones de filtrado de proyectos, tema claro/oscuro y elección de lenguaje.",
+      "highlights": [
+        "HTML", "Javascript", "Sass", "Tailwind"
+      ],
+      "url": "https://nicolasgarin.github.io/project-tracker-lp/",
+      "github": "https://github.com/nicolasgarin/project-tracker-lp"
+    },
+    {
+      "name": "CV Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Portfolio de UX moderna que muestra principales hitos y conocimientos adquiridos.",
+      "highlights": [
+        "React", "Typescript", "Tailwind", "DaisyUI", "Shad-cn", "Zustand"
+      ],
+      "url": "https://nicolasgarin.github.io/cv-project/",
+      "github": "https://github.com/nicolasgarin/cv-project"
+    },
+    {
+      "name": "Buscaminas",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Juego de buscaminas realizado en React a través del intercambio generado por prompts con IA(Claude)",
+      "highlights": [
+        "React", "Typescript", "Tailwind"
+      ],
+      "url": "https://nicolasgarin.github.io/buscaminas/",
+      "github": "https://github.com/nicolasgarin/buscaminas"
+    },
+    {
+      "name": "Mis Notas",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Aplicación simple de notas realizada con React Native a través del intercambio generado por prompts con IA(Claude)",
+      "highlights": [
+        "React native"
+      ],
+      "url": "https://nicolasgarin.github.io/notes-manager-app/",
+      "github": "https://github.com/nicolasgarin/notes-manager-app"
     }
   ]
 }
