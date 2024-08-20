@@ -116,25 +116,37 @@
   ],
   "projects": [
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "Pokedex",
+      "startDate": "",
+      "endDate": "2",
+      "description": "Aplicación de Pokedex para buscar y analizar cada Pokemón, sus estadísticas, evoluciones y ataques.",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "React",
+        "Sass",
+        "Bootstrap" 
       ],
-      "url": ""
+      "github": "https://github.com/nicolasgarin/pokedex"
     },
     {
-      "name": "Project",
+      "name": "Jap Ecommerce",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
+      "description": "Proyecto final de curso para Jóvenes a Programar, eCommerce completo con catálogo de productos, filtros de búsqueda y proceso de compra.",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "HTML", "CSS", "Javascript", "Bootstrap"
       ],
-      "url": "https://project.com/",
-      "github": "#"
+      "url": "https://nicolasgarin.github.io/Proyecto-JaP/",
+      "github": "https://github.com/nicolasgarin/Proyecto-JaP"
+    },
+    {
+      "name": "Flashcard App",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Juego de preguntas y respuestas con elección de categorías y modalidad de juego, sección de estadísticas y tema claro/oscuro.",
+      "highlights": [
+        "React", "Sass", "Bootstrap"
+      ],
+      "github": "https://github.com/nicolasgarin/flashcard-app"
     }
   ]
 }
